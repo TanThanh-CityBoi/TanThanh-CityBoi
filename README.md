@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tan Thanh</h1>
 <h3 align="center">A passionate Back-end developer from Vie</h3>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="300"/>
+
+<h3> About Me 👨🏻‍💻 </h3>
 
 - 🔭 I’m currently working on NodeJs
 - 🌱 I’m currently learning Backend
