@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Tan Thanh</h1>
 <h3 align="center">A passionate Back-end developer from Vie</h3>
 
-- 🌱 I’m currently learning **NodeJS( NestJS, ExpressJS)**
-
+- 🔭 I’m currently working on NodeJs
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Backend
 - 📫 How to reach me **tanthanhe@gmail.com**
+- 😄 My website: ...
+- ⚡ Fun fact: I'm comming to teen
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
