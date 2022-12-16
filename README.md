@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tan Thanh</h1>
 <h3 align="center">A passionate Back-end developer from Vie</h3>
 
-- 🌱 I’m currently learning **NestJS, ExpressJS**
+- 🌱 I’m currently learning **NodeJS( NestJS, ExpressJS)**
 
 - 📫 How to reach me **tanthanhe@gmail.com**
 
