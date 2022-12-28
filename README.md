@@ -27,7 +27,7 @@
 | <a href="https://github.com/hacThe/StudyExtra-FE"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hacThe&repo=StudyExtra-FE&theme=radical" alt="CongPhiNguyenT" /></a> | <a href="https://github.com/LuongThienPhuoc/StudyExtra-BE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LuongThienPhuoc&repo=StudyExtra-BE&theme=buefy" alt="CongPhiNguyen" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/Minhthang1506/SE100Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hacThe&repo=LuxyWine-FE&theme=radical" alt="CongPhiNguyen" /> | </a><a href="https://github.com/LuongThienPhuoc/SellingBook-FE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hacThe&repo=LuxyWine-FE&theme=buefy" alt="CongPhiNguyen"></img></a>|
+| <a href="https://github.com/hacThe/LuxyWine-FE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hacThe&repo=LuxyWine-FE&theme=radical" alt="CongPhiNguyen" /> | </a><a href="https://github.com/hacThe/LuxyWine-BE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hacThe&repo=LuxyWine-BE&theme=buefy" alt="CongPhiNguyen"></img></a>|
 | ------------- | ------------- |
 
 
