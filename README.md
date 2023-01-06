@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about Backend
 - 📫 How to reach me **tanthanhe@gmail.com**
-- 😄 My website: ...
+- 😄 Portfolio: [...](https://tanthanh-cityboi.github.io/portfolio/)
 - ⚡ Fun fact: I'm comming to teen
 
 <h3 align="left">Connect with me:</h3>
